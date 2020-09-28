@@ -1,0 +1,6 @@
+#Sat, 04 Jul 2020 04:27:56 -0700
+
+info.app.version=0.1
+info.app.name=Practice_assignment
+grails.env=development
+info.app.grailsVersion=3.2.6
